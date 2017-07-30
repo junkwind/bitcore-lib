@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib",
-  "version": "0.14.0",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
+  "name": "bitcore-lib-segwit",
+  "version": "0.14.0-segwit-1",
+  "description": "A pure and powerful JavaScript Bitcoin library (patched for SegWit).",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
