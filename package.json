@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib-segwit",
+  "name": "@monaco-ex/bitcore-lib",
   "version": "0.14.0-segwit-1",
   "description": "A pure and powerful JavaScript Bitcoin library (patched for SegWit).",
   "author": "BitPay <dev@bitpay.com>",
